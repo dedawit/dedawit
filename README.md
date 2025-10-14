@@ -39,10 +39,15 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats & Top Languages -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dedawit&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedawit&layout=compact&langs_count=8&theme=blue"/>
+</div>
+
+<!-- Contribution Graph -->
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=dedawit&theme=blue-green&area=true" />
 </div>
 
 <!-- Current Focus -->
