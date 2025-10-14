@@ -46,7 +46,7 @@
 </div>
 <!-- Streak Stats -->
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dedawit&theme=blue&hide_border=true&background=00000000&dates=ffffff&ring=007acc&fire=007acc&currStreakLabel=ffffff&stroke=ffffff&currStreakNum=ffffff" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dedawit&theme=blue&hide_border=true&background=00000000&dates=ffffff&ring=1f6feb&fire=1f6feb&currStreakLabel=ffffff&stroke=ffffff&currStreakNum=ffffff&sideLabels=ffffff" />
 </div>
 <!-- Contribution Graph -->
 <div align="center">
