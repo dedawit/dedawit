@@ -47,7 +47,7 @@
 
 <!-- Contribution Graph -->
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=dedawit&theme=blue-green&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dedawit&theme=blue-green&area=true" />
 </div>
 
 <!-- Current Focus -->
