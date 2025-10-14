@@ -46,9 +46,8 @@
 </div>
 <!-- Streak Stats -->
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dedawit&theme=blue&hide_border=true&background=00000000&dates=ffffff&ring=007acc&fire=007acc&currStreakLabel=ffffff" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dedawit&theme=blue&hide_border=true&background=00000000&dates=ffffff&ring=0080ff&fire=0080ff&currStreakLabel=ffffff&currStreakNum=0080ff" />
 </div>
-
 <!-- Contribution Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dedawit&theme=github&bg_color=00000000&color=1f6feb&line=1f6feb&point=1f6feb&area=true&area_color=1f6feb&hide_border=true&custom_title=GitHub%20Contribution%20Graph" />
