@@ -51,7 +51,7 @@
 
 <!-- Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dedawit&theme=blue&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dedawit&theme=github&bg_color=00000000&color=1f6feb&line=1f6feb&point=1f6feb&area=true&area_color=1f6feb&hide_border=true&custom_title=GitHub%20Contribution%20Graph" />
 </div>
 
 <!-- Current Focus -->
