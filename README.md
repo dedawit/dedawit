@@ -41,8 +41,8 @@
 
 <!-- GitHub Stats & Top Languages -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dedawit&show_icons=true&theme=blue&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedawit&layout=compact&langs_count=8&theme=blue&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dedawit&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedawit&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=00000000" />
 </div>
 
 <!-- Streak Stats -->
