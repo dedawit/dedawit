@@ -12,9 +12,9 @@
 <!-- About Section -->
 <div align="center">
 🎓 BSc in Information Systems from Addis Ababa University  
-💻 Love solving real world problems and reading books  
-📈 Exploring backend development & cybersecurity  
-🚀 Focused on building secure and scalable web solutions
+💻 Passionate about solving real-world problems through technology  
+📈 Specializing in backend development & cybersecurity  
+🚀 Building secure and scalable web solutions
 </div>
 
 <!-- Connect Section -->
@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://dawitgirma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-0052CC?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -34,26 +34,31 @@
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/BurpSuite-ED1C24?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6B6B?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </p>
 
 <!-- GitHub Stats & Top Languages -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dedawit&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedawit&layout=compact&langs_count=8&theme=blue"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dedawit&show_icons=true&theme=blue&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedawit&layout=compact&langs_count=8&theme=blue&hide_border=true" />
+</div>
+
+<!-- Streak Stats -->
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dedawit&theme=blue&hide_border=true" />
 </div>
 
 <!-- Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dedawit&theme=blue-green&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dedawit&theme=blue&area=true&hide_border=true" />
 </div>
 
 <!-- Current Focus -->
 <h3 align="center">Current Focus</h3>
 <div align="center">
-🔭 Working in Bell-Bit Software Technologies PLC  
+🔭 Software Developer at Bell-Bit Software Technologies PLC  
 🌱 Deepening expertise in backend systems and cybersecurity  
 👨💻 Building secure, scalable backend solutions  
 📚 Exploring advanced web security and best practices  
